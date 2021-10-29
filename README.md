@@ -1,6 +1,6 @@
-# valorant
+# Valorant logo app on home screen
 
-A new Flutter project.
+Just an app which displays Valorant name and logo on home screen, on opening this app it does not perform any other activity than displaying a Valorant Wallpaper.This app doesn't have internet access
 
 ## Getting Started
 
