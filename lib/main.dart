@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.black,
 
         body: Center(child: Image(
-          image: AssetImage('images/valo.webp'),
+          image: AssetImage('images/valo.jpg'),
         ),
         ),
       ),
